@@ -3,7 +3,7 @@ import UndrawBooks from "../assets/Undraw_Books.svg"
 
 const Landing = () => {
   return (
-    <section id="landing">
+    <section id="Landing">
         <header>
             <div className="landing__container">
                 <div className="header__description">
